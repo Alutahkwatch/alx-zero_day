@@ -1,1 +1,1 @@
-Another readme
+Grit mindset
